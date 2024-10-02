@@ -1,0 +1,9 @@
+{
+    "built": "2023-11-03T17:47:36+00:00",
+    "ref": "refs/tags/v0.11.1",
+    "sha": "f055eb02dc0af32441f8b2873f58e8316d7ca638",
+    "actor": "Saschl",
+    "event_name": "manual",
+    "pretty_release_name": "stable/v0.11.1",
+    "version": "v0.11.1-rel.f055eb0"
+}
